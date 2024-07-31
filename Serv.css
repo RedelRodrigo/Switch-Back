@@ -1,0 +1,28 @@
+footer{
+    width: 100%;
+    height: 40px;
+    position: relative;
+    bottom: -35px;
+    text-align: center;
+}
+footer a{
+    margin: 60px;
+}
+
+#Servicios{
+    clear: both;
+    text-align: center;
+    padding-top: 20px;
+    h1{
+        text-decoration: underline #3db28f;
+        margin-bottom: 20px;
+    }
+    p{
+        width: 50%;
+        margin: auto;
+        padding: 30px;
+        font-size: 18px;
+        border-style: ridge;
+        border-color: #3db28f;
+    }
+}
